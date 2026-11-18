@@ -1,0 +1,15 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+/captures
+.cxx/
+
+# Signing material and local build artifacts — never commit
+signing/
+dist/
+*.apk
+*.idsig
+*.hprof

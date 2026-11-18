@@ -1,0 +1,58 @@
+<resources>
+    <string name="accessibility_service_summary">Covers spoiler text on screen</string>
+    <string name="accessibility_service_description">Shush reads text visible on your screen (in memory only, on your device) to cover content matching your spoiler keywords. It never stores, logs, or transmits screen content.</string>
+
+    <string name="banner_protected">Protected</string>
+    <string name="banner_paused">Paused</string>
+    <string name="banner_off">Protection off</string>
+    <plurals name="banner_supporting_count">
+        <item quantity="one">%1$d keyword being blocked</item>
+        <item quantity="other">%1$d keywords being blocked</item>
+    </plurals>
+    <string name="banner_paused_supporting">Blocking is turned off below</string>
+    <string name="banner_off_supporting">Turn the service back on to keep spoilers covered</string>
+    <string name="open_settings">Open settings</string>
+
+    <string name="blocking_title">Spoiler blocking</string>
+    <string name="blocking_active">Active — matching text is covered</string>
+    <string name="blocking_paused">Paused — nothing is covered</string>
+    <string name="blocking_service_off">Service is off — enable it above</string>
+
+    <string name="keywords_header">Keywords · %1$d</string>
+    <string name="add_keyword_placeholder">Add a spoiler keyword</string>
+    <string name="add_keyword">Add keyword</string>
+    <string name="delete_keyword">Delete %1$s</string>
+    <string name="empty_title">No keywords yet</string>
+    <string name="empty_body">Add the shows, names, or plot terms you don\'t want to see. Try: Red Wedding</string>
+    <string name="already_added">Already added</string>
+    <string name="keyword_deleted">Deleted %1$s</string>
+    <string name="undo">Undo</string>
+
+    <string name="step_label">Step %1$d of 3</string>
+    <string name="back">Back</string>
+    <string name="onboarding_welcome_title">Shush</string>
+    <string name="onboarding_welcome_body">Covers spoilers anywhere on your phone. Add keywords, grant one permission, and offending text gets covered — in any app.\n\nAll matching happens on your device, in memory. The app has no internet access at all.</string>
+    <string name="get_started">Get started</string>
+    <string name="onboarding_keywords_title">What shouldn\'t you see?</string>
+    <string name="keyword_example">e.g. Red Wedding</string>
+    <string name="continue_label">Continue</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="remove_keyword">Remove %1$s</string>
+    <string name="onboarding_enable_title">One last step</string>
+    <string name="onboarding_enable_body">Enable \"Shush\" in Accessibility settings. This is what lets it cover text on screen.</string>
+    <string name="service_enabled">Service enabled</string>
+    <string name="service_not_enabled">Not enabled yet</string>
+    <string name="open_accessibility_settings">Open accessibility settings</string>
+    <string name="exempt_battery">Exempt from battery optimization</string>
+    <string name="battery_hint">Optional. May stop blocking in the background.</string>
+    <string name="done">Done</string>
+    <string name="continue_without_blocking">Continue without blocking</string>
+
+    <string name="cover_title">SPOILERS HIDDEN</string>
+    <string name="cover_body">Scroll until this cover lifts, or tap Reveal for a 5-second peek</string>
+    <string name="cover_accessibility">Spoilers hidden. Scroll to move past them.</string>
+    <string name="reveal_pill">Reveal · 5s</string>
+    <string name="reveal_pill_accessibility">Reveal spoilers for 5 seconds</string>
+
+    <string name="loading">Loading</string>
+</resources>
